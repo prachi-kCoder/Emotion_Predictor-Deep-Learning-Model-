@@ -1,0 +1,26 @@
+# Ignore the virtual environment directory
+imageenv/
+
+model/Emotion_Predictor.h5
+# Ignore the data folder used for training
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any output folders you may use for model outputs, logs, etc.
+outputs/
+logs/
