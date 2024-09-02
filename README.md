@@ -32,7 +32,7 @@ Before you start, ensure you have the following installed:
    ```bash
    git clone https://github.com/prachi-kCoder/Emotion_Predictor-Deep-Learning-Model-.git
    cd Emotion_Predictor-Deep-Learning-Model-
-##Set Up Virtual Environment
+## Set Up Virtual Environment
 
 (bash)
 Copy code
@@ -56,13 +56,13 @@ Copy code
 python main.py
 This will start the training process with the data from the data folder. The model will be trained using Convolutional Neural Networks (CNNs) to analyze and predict emotions from images.
 
-##Usage
+## Usage
 Once the model is trained, you can use it to make predictions on new images. Follow the instructions in main.py or refer to the comments in the code for usage details.
 
-##Contributing
+## Contributing
 If you wish to contribute to the project, please fork the repository and submit a pull request. Ensure that your changes are well-documented and tested.
 
-##Acknowledgments
+## Acknowledgments
 Deep Learning Frameworks: This project uses TensorFlow and Keras for building and training the deep learning model.
 Open Source Libraries: Thanks to the developers of the libraries used in this project.
    
